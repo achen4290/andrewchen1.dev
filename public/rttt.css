@@ -1,0 +1,30 @@
+:root {
+    font-family: 'Dosis', sans-serif;
+}
+
+.rttt-body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #001220;
+}
+
+.rttt-title {
+    margin-top: 2.5rem;
+    font-size: 70px;
+    color: #896ffc;
+    font-weight: 700;
+}
+
+.rttt-credits {
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: #5036c4;
+}
+
+.rttt-credits-link {
+    color: #6340ff;
+}
